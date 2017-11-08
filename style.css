@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+}
+
+#cuatro{
+	background-attachment: fixed;
+	background-image: url(img/memeDeLaEpocaDelProfe4.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+#cinco{
+	background-image: url(img/memeDeLaEpocaDelProfe5.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+#seis{
+	background-image: url(img/memeDeLaEpocaDelProfe6.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.galeria{
+	height: 100%;
+}
+
+.meme{
+	font-size: 32pt;
+	color: white;
+	text-align: center;
+	display: inline-table;
+	height: 400px;
+}
+
+h1{
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.header1{
+	background-color: black;
+	color: aliceblue;
+}
